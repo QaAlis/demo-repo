@@ -1,3 +1,3 @@
 # Demo Repository
 
-This is the depo repository for Software Technologies May 2023 Course @ SoftUni
+This is the demo repository for Software Technologies May 2023 Course @ SoftUni
